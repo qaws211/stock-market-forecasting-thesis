@@ -8,19 +8,19 @@ The key research question addressed in this work is:
 ## Repository Structure  
 This repository contains the following files:  
 - `Stock_market_forecasting_thesis_Alberto_Sartini.pdf` – Full thesis document 
-- `Engle Granger/` –  Folder with datasets used in analysis and Jupyter Notebooks with code implementation
+- `Engle Granger/` –  Folder with datasets used in analysis and Jupyter Notebooks with code implementation 
 
 ## Technologies Used  
 - **Python** 
 - **Machine Learning Models** (random forest, support vector regression, artificial neural networks)  
 - **Econometric Models** (Engle-Granger two-step cointegration analysis)  
-- **Libraries**: 'pandas', 'numpy', 'scikit-learn', 'statsmodels', 'matplotlib', 'seaborn', 'tensorflow', 'keras'.   
+- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `statsmodels`, `matplotlib`, `seaborn`, `tensorflow`, `keras`.   
 
 ## How to Use  
 1. Clone or download this repository.
-2. Open the folder 'Engle Granger'
-3. Open the file 'Engle_Granger.code-workspace'
-4. Use 'Funzione_backtest_variazione_2.1.ipynb' to replicate the analysis
+2. Open the folder `Engle Granger`
+3. Open the file `Engle_Granger.code-workspace`
+4. Use `Funzione_backtest_variazione_2.1.ipynb` to replicate the analysis
 
 ## Author
 **Alberto Sartini**
