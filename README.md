@@ -14,7 +14,7 @@ This repository contains the following files:
 - **Python** 
 - **Machine Learning Models** (random forest, support vector regression, artificial neural networks)  
 - **Econometric Models** (Engle-Granger two-step cointegration analysis)  
-- **Libraries**: pandas, numpy, scikit-learn, statsmodels, matplotlib, seaborn, tensorflow, keras.   
+- **Libraries**: 'pandas', 'numpy', 'scikit-learn', 'statsmodels', 'matplotlib', 'seaborn', 'tensorflow', 'keras'.   
 
 ## How to Use  
 1. Clone or download this repository.
