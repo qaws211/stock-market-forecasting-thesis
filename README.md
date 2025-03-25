@@ -43,5 +43,5 @@ Stay tuned for future updates!
 
 ## Contact
 For any questions or collaborations, feel free to reach out:
-Email: sartinialberto1@outlook.it
-LinkedIn: www.linkedin.com/in/alberto-sartini-a78214296
+- Email: sartinialberto1@outlook.it
+- LinkedIn: www.linkedin.com/in/alberto-sartini-a78214296
