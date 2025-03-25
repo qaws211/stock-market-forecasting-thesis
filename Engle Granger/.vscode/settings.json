@@ -1,0 +1,8 @@
+{
+    "jupyter.stopOnFirstLineWhileDebugging": false,
+    "jupyter.debugJustMyCode": false,
+    "debugpy.debugJustMyCode": false,
+    "python.analysis.extraPaths": [
+    "C:\\Users\\39370\\anaconda3\\Lib\\site-packages"
+  ]
+}
