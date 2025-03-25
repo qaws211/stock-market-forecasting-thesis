@@ -22,5 +22,26 @@ This repository contains the following files:
 3. Open the file `Engle_Granger.code-workspace`
 4. Use `Funzione_backtest_variazione_2.1.ipynb` to replicate the analysis
 
+## Results & Findings  
+- The **Engle-Granger two-step cointegration analysis** confirms the presence of a long-term relationship between the **10Y USA Rate**, **Earnings**, and the **S&P 500 index**.  
+- Machine learning models, particularly **random forest and neural networks**, improve the predictive accuracy of short-term S&P 500 returns.  
+- **Ensemble learning techniques** provide better generalization and reduce overfitting compared to single models.  
+- **Feature selection and hyperparameter tuning** played a key role in enhancing model performance.  
+- **Backtesting analysis** shows that the integration of econometric models with machine learning can be a valuable tool for financial forecasting.
+
+## Work in Progress  
+ **This project is still evolving!** 
+I am currently working on:  
+- **Improving model accuracy** by experimenting with additional feature engineering techniques.  
+- **Expanding the dataset** to include additional macroeconomic indicators and alternative stock market indices.  
+- **Enhancing backtesting strategies** to evaluate the robustness of the models in different market conditions.  
+
+Stay tuned for future updates! 
+
 ## Author
 **Alberto Sartini**
+
+## Contact
+For any questions or collaborations, feel free to reach out:
+Email: sartinialberto1@outlook.it
+LinkedIn: www.linkedin.com/in/alberto-sartini-a78214296
