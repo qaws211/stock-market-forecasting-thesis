@@ -1,7 +1,8 @@
 # README - Engle Granger Folder
 
 ## Overview
-This folder contains the core files for the analysis conducted in the thesis *"Stock Market Forecasting: An Extension of the Engle-Granger Approach"*. The objective of this study is to address the following research question: 'Is it possible to improve the predictive capability of the Engle-Granger model for the t+1 return of the S&P 500 index through the use of nonlinear models and ensemble learning techniques?' 
+This folder contains the core files for the analysis conducted in the thesis *"Stock Market Forecasting: An Extension of the Engle-Granger Approach"*. 
+The objective of this study is to address the following research question: *'Is it possible to improve the predictive capability of the Engle-Granger model for the t+1 return of the S&P 500 index through the use of nonlinear models and ensemble learning techniques?'* 
   - Implements the Engle-Granger two step approach for the cointegration analysis.
   - Applies machine learning and ensemble learning models.
   - Performs backtesting to evaluate predictive performance.
