@@ -7,7 +7,7 @@ The key research question addressed in this work is:
 
 ## Repository Structure  
 This repository contains the following files:
-- License - This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
+- `LICENSE` - This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
 - `Stock_market_forecasting_thesis_Alberto_Sartini.pdf` – Full thesis document 
 - `Engle Granger/` –  Folder with datasets used in analysis and Jupyter Notebooks with code implementation 
 
