@@ -10,10 +10,10 @@ This repository contains the following files:
 - `LICENSE` - This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
 - `Stock_market_forecasting_thesis_Alberto_Sartini.pdf` – Full thesis document 
 - `Engle Granger/` – This folder contains:  
-  - 📊 **Datasets** used in the analysis.  
-  - 📜 **Jupyter Notebooks** with the code implementation.  
-  - 📈 **Datasets with obtained results** from the analysis.  
-  - ℹ️ **Additional information** is provided in the README file inside this folder. 
+  -  **Dataset** used in the analysis.  
+  -  **Jupyter Notebooks** with the code implementation.  
+  -  **Datasets with obtained results** from the analysis.  
+  -  **Additional information** is provided in the README file inside this folder. 
 
 ## Technologies Used  
 - **Python** 
