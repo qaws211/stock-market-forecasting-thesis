@@ -17,7 +17,7 @@ The objective of this study is to address the following research question: *'Is 
 
 ### **Supporting Notebooks**
 - **`Debug_Calcolo_Forecast.ipynb`** → Assists in debugging the "forecast_regressor_construction" function.
-- **`Debug_Series_To_Supervised.ipynb`** → Assists in debugging the "series_to_lagged" function. It lags the original data using the number of lags obtained in "var_lag_selection" function.
+- **`Debug_Series_To_Lagged.ipynb`** → Assists in debugging the "series_to_lagged" function. It lags the original data using the number of lags obtained in "var_lag_selection" function.
 - **`Debug_VAR_Lag_Selection.ipynb`** → Assists in debugging the "var_lag_selection" function. It Helps in selecting the optimal lag order for the VAR model at each iteration of the backtest cycle.
 - **`Esempio_Costruzione_Matrici_Ritardate.xlsx`** → Example of how lagged matrices are constructed for modeling.
 
