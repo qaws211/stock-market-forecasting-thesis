@@ -34,5 +34,13 @@ The objective of this study is to address the following research question: *'Is 
 - Ensure that all necessary dependencies are installed before running the notebooks.
 - This analysis is a **work in progress**, and improvements are continuously being made.
 
+## Author
+**Alberto Sartini**
+
+## Contact
+For any questions or collaborations, feel free to reach out:
+- Email: sartinialberto1@outlook.it
+- LinkedIn: www.linkedin.com/in/alberto-sartini-a78214296
+
 ---
-📌 **For more details on the project, refer to the main README in the repository.**
+**For more details on the project, refer to the main README in the repository.**
