@@ -13,18 +13,18 @@ The objective of this study is to address the following research question: *'Is 
   - Performs backtesting to evaluate predictive performance.
 
 ### **Dataset**
-- **`SHILLER_Data.xlsx`** → The primary dataset used for analysis. It contains historical financial data including interest rates, earnings, and S&P 500 index values.
+- **`SHILLER_Data.xlsx`** → The primary dataset used for analysis. It contains financial monthly data including 10 years USA rates, earnings, and S&P 500 index values.
 
 ### **Supporting Notebooks**
-- **`Debug_Calcolo_Forecast.ipynb`** → Assists in debugging forecast calculations.
-- **`Debug_Series_To_Supervised.ipynb`** → Converts time series data into a supervised learning format.
-- **`Debug_VAR_Lag_Selection.ipynb`** → Helps in selecting the optimal lag order for the VAR model.
+- **`Debug_Calcolo_Forecast.ipynb`** → Assists in debugging the "forecast_regressor_construction" function.
+- **`Debug_Series_To_Supervised.ipynb`** → Assists in debugging the "series_to_lagged" function. It lags the original data using the number of lags obtained in "var_lag_selection" function.
+- **`Debug_VAR_Lag_Selection.ipynb`** → Assists in debugging the "var_lag_selection" function. It Helps in selecting the optimal lag order for the VAR model at each iteration of the backtest cycle.
 - **`Esempio_Costruzione_Matrici_Ritardate.xlsx`** → Example of how lagged matrices are constructed for modeling.
 
 ### **Results and Model Outputs**
 - **`all_models_forecast_over_time_df.csv`** → Forecasted values from all models over time.
-- **`models_weights_over_time_df.csv`** → Model weight distributions over time.
-- **`relative_forecast_residuals_df.csv`** → Residual errors of forecasts.
+- **`models_weights_over_time_df.csv`** → Weights assigned to the forecast of each of the starting models to obtain the ensemble learning model "monthly weighted average bic"
+- **`relative_forecast_residuals_df.csv`** →Relative residual errors of forecasts of each of the starting models.
 
 ## How to Run the Analysis
 1. Open `Funzione_backtest_Variazione2.1.ipynb` in **Jupyter Notebook** or **VS Code**.
