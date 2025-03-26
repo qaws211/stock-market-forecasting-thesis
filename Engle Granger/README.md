@@ -7,16 +7,16 @@ The objective of this study is to address the following research question: *'Is 
   - Applies machine learning and ensemble learning models.
   - Performs backtesting to evaluate predictive performance.
 
-### 2️⃣ **Dataset**
+### **Dataset**
 - **`SHILLER_Data.xlsx`** → The primary dataset used for analysis. It contains historical financial data including interest rates, earnings, and S&P 500 index values.
 
-### 3️⃣ **Supporting Notebooks**
+### **Supporting Notebooks**
 - **`Debug_Calcolo_Forecast.ipynb`** → Assists in debugging forecast calculations.
 - **`Debug_Series_To_Supervised.ipynb`** → Converts time series data into a supervised learning format.
 - **`Debug_VAR_Lag_Selection.ipynb`** → Helps in selecting the optimal lag order for the VAR model.
 - **`Esempio_Costruzione_Matrici_Ritardate.xlsx`** → Example of how lagged matrices are constructed for modeling.
 
-### 4️⃣ **Results and Model Outputs**
+### **Results and Model Outputs**
 - **`all_models_forecast_over_time_df.csv`** → Forecasted values from all models over time.
 - **`models_weights_over_time_df.csv`** → Model weight distributions over time.
 - **`relative_forecast_residuals_df.csv`** → Residual errors of forecasts.
