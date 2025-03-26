@@ -6,7 +6,8 @@ The key research question addressed in this work is:
 **"Can the predictive performance of the Engle-Granger model on the S&P 500 index returns at t+1 be improved using machine learning and ensemble learning techniques?"**  
 
 ## Repository Structure  
-This repository contains the following files:  
+This repository contains the following files:
+- License - This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
 - `Stock_market_forecasting_thesis_Alberto_Sartini.pdf` – Full thesis document 
 - `Engle Granger/` –  Folder with datasets used in analysis and Jupyter Notebooks with code implementation 
 
