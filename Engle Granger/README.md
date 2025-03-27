@@ -16,7 +16,7 @@ The objective of this study is to address the following research question: *'Is 
 - **`shiller_data.xlsx`** → The primary dataset used for analysis. It contains financial monthly data including 10 years USA rates, earnings, and S&P 500 index values.
 
 ### **Supporting Notebooks**
-- **`debug_forecast_regressor_construction.ipynb`** → Assists in debugging the "forecast_regressor_construction" function.
+- **`debug_forecast_regressors_construction.ipynb`** → Assists in debugging the "forecast_regressor_construction" function.
 - **`debug_series_to_lagged.ipynb`** → Assists in debugging the "series_to_lagged" function. It lags the original data using the number of lags obtained in "var_lag_selection" function.
 - **`debug_var_lag_selection.ipynb`** → Assists in debugging the "var_lag_selection" function. It Helps in selecting the optimal lag order for the VAR model at each iteration of the backtest cycle.
 - **`lagged_matrix_example.xlsx`** → Example of how lagged matrices are constructed for modeling.
