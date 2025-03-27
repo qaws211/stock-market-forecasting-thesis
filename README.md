@@ -25,8 +25,7 @@ This repository contains the following files:
 ## How to Use  
 1. Clone or download this repository.
 2. Open the folder `Engle Granger`
-3. Open the file `Engle_Granger.code-workspace`
-4. Use `Funzione_backtest_variazione_2.1.ipynb` to replicate the analysis
+3. Use `stock_market_forecasting_analysis.ipynb` to replicate the analysis
 
 ## Results & Findings  
 - The **Engle-Granger two-step cointegration analysis** confirms the presence of a long-term equilibrium between the **10Y USA Rate**, **Earnings**, and the **S&P 500 index**.  

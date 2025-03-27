@@ -6,20 +6,20 @@ The objective of this study is to address the following research question: *'Is 
 
 ## Main Files
 ### **Primary Analysis File**
-- **`Funzione_backtest_Variazione2.1.ipynb`** → This is the main analysis notebook. It:
+- **`stock_market_forecasting_analysis.ipynb`** → This is the main analysis notebook. It:
   - Loads and preprocesses the dataset.
   - Implements the Engle-Granger two step approach for the cointegration analysis.
   - Applies machine learning and ensemble learning models.
   - Performs backtesting to evaluate predictive performance.
 
 ### **Dataset**
-- **`SHILLER_Data.xlsx`** → The primary dataset used for analysis. It contains financial monthly data including 10 years USA rates, earnings, and S&P 500 index values.
+- **`shiller_data.xlsx`** → The primary dataset used for analysis. It contains financial monthly data including 10 years USA rates, earnings, and S&P 500 index values.
 
 ### **Supporting Notebooks**
-- **`Debug_Calcolo_Forecast.ipynb`** → Assists in debugging the "forecast_regressor_construction" function.
-- **`Debug_Series_To_Lagged.ipynb`** → Assists in debugging the "series_to_lagged" function. It lags the original data using the number of lags obtained in "var_lag_selection" function.
-- **`Debug_VAR_Lag_Selection.ipynb`** → Assists in debugging the "var_lag_selection" function. It Helps in selecting the optimal lag order for the VAR model at each iteration of the backtest cycle.
-- **`Esempio_Costruzione_Matrici_Ritardate.xlsx`** → Example of how lagged matrices are constructed for modeling.
+- **`debug_forecast_regressors_construction.ipynb`** → Assists in debugging the "forecast_regressor_construction" function.
+- **`debug_series_to_lagged.ipynb`** → Assists in debugging the "series_to_lagged" function. It lags the original data using the number of lags obtained in "var_lag_selection" function.
+- **`debug_var_lag_selection.ipynb`** → Assists in debugging the "var_lag_selection" function. It Helps in selecting the optimal lag order for the VAR model at each iteration of the backtest cycle.
+- **`lagged_matrix_example.xlsx`** → Example of how lagged matrices are constructed for modeling.
 
 ### **Results and Model Outputs**
 - **`all_models_forecast_over_time_df.csv`** → Forecasted values from all models over time.
@@ -27,10 +27,10 @@ The objective of this study is to address the following research question: *'Is 
 - **`relative_forecast_residuals_df.csv`** →Relative residual errors of forecasts of each of the starting models.
 
 ## How to Run the Analysis
-1. Open `Funzione_backtest_Variazione2.1.ipynb` in **Jupyter Notebook** or **VS Code**.
+1. Open `stock_market_forecasting_analysis.ipynb` in **Jupyter Notebook** or **VS Code**.
 2. Ensure all dependencies (e.g., `pandas`, `numpy`, `scikit-learn`, `statsmodels`, etc.) are installed.
 3. Run the notebook step by step to:
-   - Load `SHILLER_Data.xlsx`.
+   - Load `shiller_data.xlsx`.
    - Process the data.
    - Train models and evaluate results.
 
