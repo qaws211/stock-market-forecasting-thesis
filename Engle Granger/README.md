@@ -27,10 +27,10 @@ The objective of this study is to address the following research question: *'Is 
 - **`relative_forecast_residuals_df.csv`** →Relative residual errors of forecasts of each of the starting models.
 
 ## How to Run the Analysis
-1. Open `Funzione_backtest_Variazione2.1.ipynb` in **Jupyter Notebook** or **VS Code**.
+1. Open `stock_market_forecasting_analysis.ipynb` in **Jupyter Notebook** or **VS Code**.
 2. Ensure all dependencies (e.g., `pandas`, `numpy`, `scikit-learn`, `statsmodels`, etc.) are installed.
 3. Run the notebook step by step to:
-   - Load `SHILLER_Data.xlsx`.
+   - Load `shiller_data.xlsx`.
    - Process the data.
    - Train models and evaluate results.
 
