@@ -9,7 +9,8 @@ The key research question addressed in this work is:
 This repository contains the following files:
 - `LICENSE` - This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.  
 - `Stock_market_forecasting_thesis_Alberto_Sartini.pdf` – Full thesis document (in italian)
-- `Stock_market_forecasting_ppt_presentation_Alberto_Sartini.pdf` – Slides used during the thesis discussion (in italian) 
+- `Stock_market_forecasting_ppt_presentation_Alberto_Sartini.pdf` – Slides used during the thesis discussion (in italian)
+- `abstract_stock_market_forecasting_thesis_alberto_sartini` - Thesis abstract document
 - `Engle Granger/` – This folder contains:  
   -  **Dataset** used in the analysis.  
   -  **Jupyter Notebooks** with the code implementation.  
