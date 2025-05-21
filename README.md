@@ -1,6 +1,6 @@
 # Stock Market Forecasting: An Extension of the Engle-Granger Approach  
 
-## Thesis abstract  
+## Introduction  
 This thesis explores the interaction between traditional econometric approaches and machine learning techniques in predictive analysis of stock markets. Specifically, it examines the relationship between the 10-year U.S. interest rate (10Y USA Rate), corporate earnings, and the S&P 500 index.  
 The key research question addressed in this work is:  
 **"Can the predictive performance of the Engle-Granger model on the S&P 500 index returns at t+1 be improved using machine learning and ensemble learning techniques?"**  
