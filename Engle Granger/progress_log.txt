@@ -5762,3 +5762,6 @@ Rolling date: 2023-12-22 00:00:00, Elapsed time: 86.43 seconds
 Rolling date: 2023-12-26 00:00:00, Elapsed time: 104.27 seconds
 Rolling date: 2023-12-27 00:00:00, Elapsed time: 102.25 seconds
 Rolling date: 2023-12-28 00:00:00, Elapsed time: 100.45 seconds
+Rolling date: 2001-01-31 00:00:00, Elapsed time: 400.41 seconds
+Rolling date: 2001-02-01 00:00:00, Elapsed time: 172.74 seconds
+Rolling date: 2001-02-02 00:00:00, Elapsed time: 451.53 seconds
