@@ -5765,3 +5765,9 @@ Rolling date: 2023-12-28 00:00:00, Elapsed time: 100.45 seconds
 Rolling date: 2001-01-31 00:00:00, Elapsed time: 400.41 seconds
 Rolling date: 2001-02-01 00:00:00, Elapsed time: 172.74 seconds
 Rolling date: 2001-02-02 00:00:00, Elapsed time: 451.53 seconds
+Rolling date: 2001-01-31 00:00:00, Elapsed time: 13.32 seconds
+Rolling date: 2001-02-01 00:00:00, Elapsed time: 10.47 seconds
+Rolling date: 2001-02-02 00:00:00, Elapsed time: 9.96 seconds
+Rolling date: 2001-02-05 00:00:00, Elapsed time: 10.05 seconds
+Rolling date: 2001-02-06 00:00:00, Elapsed time: 9.81 seconds
+Rolling date: 2001-02-07 00:00:00, Elapsed time: 9.74 seconds
