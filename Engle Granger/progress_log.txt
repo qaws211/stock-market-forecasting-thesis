@@ -1,0 +1,7 @@
+Rolling date: 2001-01-31 00:00:00, Elapsed time: 19.98 seconds
+Rolling date: 2001-02-01 00:00:00, Elapsed time: 36.03 seconds
+Rolling date: 2001-02-02 00:00:00, Elapsed time: 13.44 seconds
+Rolling date: 2001-02-05 00:00:00, Elapsed time: 13.45 seconds
+Rolling date: 2001-02-06 00:00:00, Elapsed time: 13.93 seconds
+Rolling date: 2001-02-07 00:00:00, Elapsed time: 13.50 seconds
+Rolling date: 2001-01-31 00:00:00, Elapsed time: 69.02 seconds
